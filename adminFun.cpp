@@ -4,7 +4,8 @@
 #include<string>
 using namespace std;
 
-class Quiz{
+class Quiz
+{
     public:
         std::string topic,description;
         std:: vector<std::string> questions;
